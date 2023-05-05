@@ -14,7 +14,7 @@ For run example in root directory of the cloned repository in terminal run this 
 ```go 
 go run .
 ```
-Yoy can run with special curve :
+Also, you can run with special curve :
 
 ```go 
 go run . -curve P-256  // variants: P-256, P-384 , P-521 and X25519
