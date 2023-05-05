@@ -1,5 +1,5 @@
-# Go crypto ecdhes generate key
-Demo example of using go `ECDH-ES+A256KW` with EC key types:  `P-256, P-384 and P-521` and OKP key type : `X25519` for generate key pair and get shared key.
+# Go crypto ECDH-ES generate key
+Demo example of using go `ECDH-ES` with EC key types:  `P-256, P-384 and P-521` and OKP key type : `X25519` for generate key pair and get shared key.
 
 ## Installation
 
