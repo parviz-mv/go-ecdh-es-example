@@ -5,7 +5,7 @@ Demo example of using go `ECDH-ES` with EC key types:  `P-256, P-384 and P-521` 
 
 Before start you need to clone this repository:
 ```shell
-git clone 
+git clone git@github.com:parviz-mv/go-ecdh-es-example.git
 ```
 ## Usage
 
