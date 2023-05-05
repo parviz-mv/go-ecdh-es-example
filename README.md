@@ -19,3 +19,4 @@ Also, you can run with special curve :
 ```go 
 go run . -curve P-256  // variants: P-256, P-384 , P-521 and X25519
 ```
+This project created for further use in react native via gomobile. You can also use this example in own projects.
